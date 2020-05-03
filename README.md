@@ -138,4 +138,5 @@ class LibraryFragment : Fragment() {
   + 데이터가 갱신되었음을 어댑터에 알려주는 기능
 
 + manifest.xml에서 user-permission을 INTERNET으로 연결해야 이미지를 인터넷에서 따올 수 있음
+
 ```<uses-permission android:name="android.permission.INTERNET"/>```
